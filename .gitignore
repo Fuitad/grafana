@@ -12,3 +12,8 @@ src/css/*.min.css
 *.sublime-workspace
 *.swp
 .idea/
+
+# NPM debug log
+npm-debug.log
+
+.DS_Store
